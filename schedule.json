@@ -1,17 +1,7 @@
 [
   {
-    "name": "GP Bélgica: Quali - TEST",
-    "datetime": 1661643840,
-    "duration": 3
-  },
-  {
-    "name": "GP USA: Carrera - TEST",
-    "datetime": 1661651040,
-    "duration": 3
-  },
-  {
-    "name": "F2 Carrera - TEST",
-    "datetime": 1661680800,
-    "duration": 2 
+    "name": "2021 - GP Bélgica - Carrera",
+    "datetime": 1661687100,
+    "duration": 1
   }
 ]
